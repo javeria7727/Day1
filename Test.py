@@ -1,6 +1,7 @@
-print("Hello World I am before Commit")
 
-print("Hello World I am After Commit")
 
-print("Hello World I am also after Commit")
+
+print("Hello World in new branch Commit")
+
+print("Hello World I am also from new after Commit")
 
